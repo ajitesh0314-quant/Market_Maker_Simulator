@@ -106,3 +106,4 @@ class MarketMaker:
 
         self.cash = self.initial_cash
         self.inventory = 0
+

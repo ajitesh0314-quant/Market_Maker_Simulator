@@ -43,3 +43,5 @@ class Market:
 
     def reset(self, initial_price=100.0):
         self.price = initial_price
+
+

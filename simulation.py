@@ -144,3 +144,5 @@ class Simulation:
         plt.grid(True)
 
         plt.show()
+
+
