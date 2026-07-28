@@ -186,4 +186,3 @@ Possible extensions include:
 Mechanical Engineering Undergraduate  
 National Institute of Technology Hamirpur
 
-Interested in Quantitative Trading, Market Microstructure, and Algorithmic Trading.
